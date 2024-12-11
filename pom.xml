@@ -26,7 +26,7 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>Kastro-app</finalName>
+    <finalName>Jagan-app</finalName>
     <pluginManagement>
   	<plugins>
    	<plugin>
